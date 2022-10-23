@@ -1,0 +1,25 @@
+body {
+  color: #eaeccf;
+  background-color: #142210;
+}
+
+a,
+button.btn {
+  color: #c7c8b8;
+  transition-duration: 0.5s;
+  text-decoration: none;
+}
+
+a:hover, button.btn:hover {
+  color: #608260;
+  transition-duration: 0.1s;
+  text-decoration: none;
+}
+
+.c4-izmir {
+  --primary-color: #113106;
+}
+
+.fancybox-progress {
+  background: #328a32;
+}
